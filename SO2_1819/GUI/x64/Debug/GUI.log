@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  GUI.cpp
+c:\users\hp\documents\github\so2_work\so2_1819\gui\gui.cpp(450): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  GUI.vcxproj -> C:\Users\HP\Documents\GitHub\SO2_Work\SO2_1819\x64\Debug\GUI.exe
